@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins;
+}
+.header{
+    background-color: #dc3d4b;
+    color: #fff;
+    font-size: 50px;
+}
+.img{
+    background: url('https://www.global-esports.news/wp-content/uploads/2022/01/Valorant-Ranking-distribution.jpg') no-repeat ;
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.text{
+    background-color: #dc3d4b;
+    color: #fff;
+    font-size: 20px;
+}
