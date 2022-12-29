@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+    background-color: rgb(102, 165, 115);
+}
+.Tl{
+    margin-left: 60px;
+    padding-top: 100px;
+    padding-left: 60px;
+    font-size: 30px;
+    max-width: 70%;
+    color: #fff;
+
+}
+.Tr{
+    position: absolute;
+    top: 10px;
+    margin-left: 1100px;
+    padding: 60px ;
+    font-size: 18px;
+    color: #fff;
+}
+.img{
+    position:absolute;
+    margin-top: 40px;
+    margin-left: 120px;
+    
+}
+.img img{
+    height: 500px;
+    width: 1700px;
+}
